@@ -1,10 +1,8 @@
 {
   "name": "EasyPM",
   "description": "Project Management made easy",
-  "repository": "https://github.com/elitechweb/wekan",
-  "logo": "",
-  "keywords": ["productivity", "tool", "team", "kanban"],
-  "website": "",
+  "repository": "https://github.com/elitechweb/wekan",  
+  "keywords": ["productivity", "tool", "team", "kanban"],  
   "env": {
     "BUILDPACK_URL": "https://github.com/AdmitHub/meteor-buildpack-horse.git",
     "ROOT_URL": {
