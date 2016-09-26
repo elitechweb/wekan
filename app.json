@@ -2,7 +2,7 @@
   "name": "EasyPM",
   "description": "Project Management made easy",
   "repository": "https://github.com/elitechweb/wekan",
-  "logo": "https://raw.githubusercontent.com/elitechweb/wekan/master/meta/icons/wekan-150.png",
+  "logo": "https://raw.githubusercontent.com/elitechweb/wekan/master/meta/icons/easypm-150.png",
   "keywords": ["productivity", "tool", "team", "kanban"],
   "website": "#",
   "env": {
